@@ -1,5 +1,5 @@
 ## Tic Tac Toe Game:
-A simple, interactive Tic Tac Toe game built with [technology, e.g., HTML/CSS/JavaScript, Python, etc.]. Perfect for beginners to understand game logic, UI updates, and basic player interactions.
+A simple, interactive Tic Tac Toe game built with [technology, e.g., HTML/CSS/JavaScript,etc.]. Perfect for beginners to understand game logic, UI updates, and basic player interactions.
 
 # Features:
 Two-player mode: Play with a friend locally.
