@@ -15,3 +15,6 @@ The game announces the winner or declares a tie.
 # Technologies:
 HTML/CSS (or specify framework)
 JavaScript
+
+https://github.com/user-attachments/assets/4305f26a-3966-4fd5-a64d-cc57d935c47a
+
